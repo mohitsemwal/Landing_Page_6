@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(12, 11, 11);
+}
+.div1{
+    display: flex;
+    align-items: center;
+    padding-left: 5rem;
+}
+header>nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: -2rem;
+}
+.youtube{
+    color: rgb(211, 4, 4);
+    font-size: 2.5rem;
+}
+
+.div1>div>h2{
+    color: rgb(255, 255, 255);
+    font-size: 2.5rem;
+}
+.div2>i{
+    padding: 3rem;
+    padding-right: 4rem;
+    font-size: 2rem;
+    color: white;
+}
+.nav2>div{
+    padding-left: 2.5rem;
+    display: flex;
+    align-items: center;
+}
+.icon1>button{
+    margin: 2.5rem;
+    color: white;
+    background-color: rgb(39, 37, 37);
+    font-size: 2rem;
+
+    border: none;
+    border-radius: 0.8rem;
+
+
+}
+.icon2>button{
+    margin: 2.5rem;
+    color: white;
+    background-color: rgb(39, 37, 37);
+    font-size: 2rem;
+    border: none;
+    border-radius: 0.8rem;
+}
+main{
+    margin-bottom: 1rem;
+}
+.photo1>img{
+    padding: 4rem;
+   
+}
+.photo2>img{
+    padding: 4rem;
+   
+}
+footer{
+    background-color: rgb(0, 0, 0);
+}
+.icon3{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.icon3>div{
+    margin: 1rem 8rem;
+    color: white;
+    height: 3rem;
+    
+
+}
+
+
+
